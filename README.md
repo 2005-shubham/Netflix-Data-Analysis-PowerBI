@@ -3,7 +3,7 @@ An interactive Power BI dashboard analysing 8,800+ Netflix titles with a custom 
 
 # 🎬 Netflix Content Analysis Dashboard (Power BI)
 
-![Netflix Dashboard Screenshot](YAHAN_APNE_DASHBOARD_KI_IMAGE_KA_LINK_DAAL)
+![Netflix Dashboard Screenshot](Screenshot 2026-03-15 221914.png)
 
 ## 📌 Project Overview
 Is project mein maine Netflix ke **8,800+ titles** ke dataset ko analyse kiya hai taaki content distribution aur global trends ko samjha ja sake. Maine ek "High-Fidelity" Dark Theme interface design kiya hai jo Netflix ki brand identity se match karta hai.
